@@ -68,13 +68,14 @@
       <!-- Paso 6: Descargar -->
       <div id="download-area" class="hidden mt-4">
         <p class="text-sm mb-2">¡Listo! Ahora puedes descargar:</p>
-        <a id="download-link" "https://www.mediafire.com/file/agbhho6abv4by5b/ARCHIVO.zip/file" target="_blank" class="bg-green-600 text-white px-5 py-3 rounded-lg font-semibold inline-block">Descargar ahora</a>
+        <a id="download-link" href="https://www.mediafire.com/file/agbhho6abv4by5b/ARCHIVO.zip/file" target="_blank" class="bg-green-600 text-white px-5 py-3 rounded-lg font-semibold inline-block">Descargar ahora</a>
       </div>
 
     </div>
   </div>
 
   <script>
+    // Canal y video
     const CHANNEL_URL = "https://www.youtube.com/@jk-trick2625";
     const VIDEO_URL   = "https://youtu.be/Gj3FcMQiZ10?si=lsKxXo8jxhfXswqf";
 
