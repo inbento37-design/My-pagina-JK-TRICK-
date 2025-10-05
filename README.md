@@ -75,7 +75,7 @@
   </div>
 
   <script>
-    // Canal y video
+    // Canal y video (actualizado)
     const CHANNEL_URL = "https://www.youtube.com/@jk-trick2625";
     const VIDEO_URL   = "https://youtu.be/Gj3FcMQiZ10?si=lsKxXo8jxhfXswqf";
 
